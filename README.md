@@ -28,7 +28,7 @@ MVC • MVVM • Singleton • Delegate • Protocol-Oriented Programming
 
 # 💼 Featured Projects
 
-# 🌟 WCWD — What Can We Do
+## 🌟 WCWD — What Can We Do
 
 **WCWD** is an idea generator app that helps you decide *what to do when you don’t know what to do*.  
 It fetches random activities via API and gives users fun and inspiring options for their free time.
