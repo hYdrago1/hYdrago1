@@ -52,7 +52,7 @@ It fetches random activities via API and gives users fun and inspiring options f
 - Git / GitHub  
 - Xcode 15, iOS 17+
 
-## Link: 
+## Link: https://github.com/hYdrago1/WCWD.git
 ---
 
 ## 📫 Contact Me
